@@ -41,7 +41,7 @@ An interactive museum tour website that allows users to explore museum exhibits 
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/interactive-museum-tour.git
+git clone https://github.com/CallMeV3n0m/interactive-museum-tour.git
 cd interactive-museum-tour
 ```
 
@@ -85,10 +85,10 @@ PRs are welcome! Please fork the repository and open a pull request with a detai
 
 ## Contact
 
-Created with ❤️ by [Your Name]
+Created with ❤️ by [Luther Attayi Jibrin]
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- GitHub: [@CallMeV3n0m](https://github.com/CallMeV3v0m)
+- Email: [jibrinluther@gmail.com](jibrinluther@.com)
 
 ## Acknowledgments
 
